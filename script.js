@@ -1,0 +1,10 @@
+0;
+var kitty;
+kitty = 5;
+var Kitty = 24;
+console.log(kitty);
+kitty = Kitty;
+var doggy;
+console.log (doggy);
+5 + 5;
+kitty = 5 + 5;
